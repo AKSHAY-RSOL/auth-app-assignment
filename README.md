@@ -26,6 +26,10 @@ AuthApp is a simple full-stack authentication app built for a college assignment
 - `client/` - React app
 - `server/` - Express API
 
+## GitHub Repository
+
+- https://github.com/AKSHAY-RSOL/auth-app-assignment
+
 ## Run Locally
 
 ### Backend
